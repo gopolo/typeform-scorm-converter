@@ -1,6 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://www.canva.com/design/DAGzpyYzpVM/hXjcoFojhZIxoaBZaTFVqQ/view" />
-</div>
 
 # Run and deploy your AI Studio app
 
