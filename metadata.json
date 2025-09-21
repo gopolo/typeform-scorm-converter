@@ -1,0 +1,5 @@
+{
+  "name": "Typeform to SCORM Converter",
+  "description": "An application to package a Typeform survey into a SCORM 1.2 compliant zip file for use in an LMS like Absorb. This tool generates the necessary file structure to track survey completion.",
+  "requestFramePermissions": []
+}
