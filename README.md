@@ -15,4 +15,4 @@
 The SCORM wrapper generated using this app may or may not be compatible with all LMSs. It generates SCORM 1.2 package by default. 
 Check the SCORM usage licensing terms before using it commercially. 
 
-Disclaimer: It is recommended to obtain appropriate SCORM usage permissions or licenses before using it in publicly. Visit SCORM.COM for more information.
+Disclaimer: It is recommended to obtain appropriate SCORM usage permissions or licenses before using it publicly. Visit SCORM.COM for more information.
